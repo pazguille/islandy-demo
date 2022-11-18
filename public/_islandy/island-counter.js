@@ -1,4 +1,4 @@
-import{b as n}from"./chunk-OSBYYNH5.js";import{d as t}from"./chunk-BHBE5OCO.js";import"./chunk-CXCAHMKX.js";function s({start:o=0}){let e=n(o),r=()=>e.value+=1;return t("div",{style:`
+import{b as n}from"./chunk-JELLHFBQ.js";import{d as t}from"./chunk-CZXPNKAP.js";import"./chunk-7RBBW5NM.js";function s({start:o=0}){let e=n(o),r=()=>e.value+=1;return t("div",{style:`
         display: flex;
         gap: 50px;
         align-items: center;
